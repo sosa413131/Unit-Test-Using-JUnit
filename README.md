@@ -1,0 +1,1 @@
+In this repo you will find an example of JUnit tests. The JunitTesting.java file contains a class with several simple methods to be tested. Create a package and import all of the java files. Run the AllTests.java to invoke all of the Junit tests that test the sum function. The AllDivideTests invokes all of the Junit tests that test the divide function. 
